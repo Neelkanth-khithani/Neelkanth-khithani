@@ -19,12 +19,12 @@ I am [Neelkanth](https://linkedin.com/in/neelkanth-khithani), a final-year compu
 - Members: Neelkanth Khithani, [Ishwari Dehadray](https://www.linkedin.com/in/ishwari-dehadray-684498264/), [Atharv Inamdar](https://www.linkedin.com/in/atharv-inamdar-149247285)
 - Abstract: An automated security pipeline using GitLab CI/CD for Static Application Security Testing (SAST). It is configured to export all security findings to [Google Cloud Platform (GCP)](https://cloud.google.com) and integration of the Gemini AI model into the front-end to provide developers with AI-guided vulnerability remediation and code fixes. [[Medium Blog](https://medium.com/@neelkanthkhithani/cloud-based-project-security-compliance-using-gcp-2ba4545fe046)]
 
-### [Machine Predictive Maintenance using Kafka Spark (Simple)](https://github.com/Neelkanth-khithani/Predictive-Maintenance-using-Kafka-Spark) (August 2025 - October 2025)
+### [Machine Predictive Maintenance using Kafka Spark (Simple)](https://github.com/Neelkanth-khithani/Predictive-Maintenance-using-Kafka-Spark) - (August 2025 - October 2025)
 
 - Abstract: This project demonstrates a Real-Time Predictive Maintenance pipeline using streaming sensor data. It integrates [Apache Kafka](https://kafka.apache.org/) for data ingestion, PySpark Streaming for real-time processing, MongoDB for anomaly storage, and Power BI for visualization.
 
 
-### [Transaction Fraud Detection using GNN](https://github.com/Neelkanth-khithani/TXN-Fraud-Detection-GNN) (August 2025 - October 2025)
+### [Transaction Fraud Detection using GNN](https://github.com/Neelkanth-khithani/TXN-Fraud-Detection-GNN) - (August 2025 - October 2025)
 
 - Members: Neelkanth Khithani, [Atharv Inamdar](https://www.linkedin.com/in/atharv-inamdar-149247285)
 - Abstract: This project presents an approach for detecting fraudulent activities in financial transactions by leveraging Graph Neural Networks (GNNs).
